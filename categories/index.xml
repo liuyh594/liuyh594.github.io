@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on lyh的博客</title>
-    <link>http://liuyh594.github.io/categories/</link>
+    <link>https://liuyh594.github.io/categories/</link>
     <description>Recent content in Categories on lyh的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>lyh.liuyahui@gmail.com (lyh)</managingEditor>
     <webMaster>lyh.liuyahui@gmail.com (lyh)</webMaster>
     <copyright>2019</copyright>
     
-	<atom:link href="http://liuyh594.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://liuyh594.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
